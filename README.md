@@ -1,0 +1,1 @@
+# Interpretarea-geometric-a-teoremei-SVD
